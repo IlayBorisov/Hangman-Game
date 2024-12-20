@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\iliys\source\repos\Viselica\Viselica\Game.cpp(98,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\iliys\source\repos\Viselica\Viselica\Game.cpp(104,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Viselica.vcxproj -> C:\Users\iliys\source\repos\Viselica\x64\Debug\Viselica.exe
